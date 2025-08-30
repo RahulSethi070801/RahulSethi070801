@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/newname">
+  <a href="https://github.com/RahulSethi07">
     <img src="https://img.shields.io/badge/👉%20Visit%20My%20New%20Profile-blue?style=for-the-badge&logo=github" alt="Redirect to new profile"/>
   </a>
 </p>
