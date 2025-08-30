@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Profile Redirect README -->
 
-<!--
-**RahulSethi070801/RahulSethi070801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🚀 This GitHub profile has moved!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Thanks for stopping by — I’ve changed my GitHub username. <br>
+  You can now find me here:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/newname">
+    <img src="https://img.shields.io/badge/👉%20Visit%20My%20New%20Profile-blue?style=for-the-badge&logo=github" alt="Redirect to new profile"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>All repositories and contributions have been moved to my new profile.</i><br>
+  <b>Please update your bookmarks and links!</b>
+</p>
